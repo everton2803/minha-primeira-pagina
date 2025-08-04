@@ -11,8 +11,6 @@ Esta é a equipe
 * Everton
 * Julia
 
-
-
 ## Subtitulo
 
 ```javascript
